@@ -1,1 +1,1 @@
-console.log("!!!! SEAHAWKS AMIRITE");
+console.log("!!!! PACKERS ARE BETTER AMIRITE");
